@@ -1,6 +1,6 @@
 token=NTA4MDA4OTAyMDIxODczNjc2.Dr4_0w.mq9g44nL-SlXXRBHHTeZYKXxgN0
 owner=464497651618938880
 prefix=0
-game=
+game=♪~TGYTıllıMusic.'
 stayinchannel=true
 songinstatus=true
